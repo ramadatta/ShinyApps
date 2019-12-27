@@ -65,7 +65,7 @@ ui <- fluidPage(
      )
    ),
 
-   fluidRow(column(8, align="left",h3("example dataset", a("here", href="https://google.com")))) 
+   fluidRow(column(8, align="left",h3("example dataset", a("here", href="https://github.com/ramadatta/ShinyApps/blob/master/HAG_Mean_Med/test.txt")))) 
 
 )
 # Define server logic required to draw a histogram
