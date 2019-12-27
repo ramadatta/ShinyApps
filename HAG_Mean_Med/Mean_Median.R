@@ -1,19 +1,12 @@
 # Author : Prakki Sai Rama Sridatta
-
-#Date: December 27th, 2019
-
+# Date: December 27th, 2019
 # This is a Shiny web application to find various Mean (arithmatic, geometric and harmonic) and Median 
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
-#install.packages("psych")
+
 library(shiny)
 library(data.table)
 library(dplyr)
 library(psych)
-if (interactive()) {
+
 # Define UI for application that draws a histogram
 ui <- fluidPage(
    
@@ -80,7 +73,7 @@ server <- function(input, output) {
       summarydf <- 
       dd %>% 
       group_by(V1) %>% 
-      summarise(Arith.MashMean=mean(V2), Geo.MashMean=exp(mean(log(V2))), Harmonic.MashMean=harmonic.mean(V2), MashMedian=median(V2))
+      summarise(Arith.Mean=mean(V2), Geom.Mean=exp(mean(log(V2))), Harmonic.Mean=harmonic.mean(V2), Median=median(V2))
       
        if(input$disp == "head") {
         return(head(summarydf))
@@ -99,7 +92,7 @@ server <- function(input, output) {
     summarydf <- 
       dd %>% 
       group_by(V1) %>% 
-      summarise(Arith.MashMean=mean(V2), Geo.MashMean=exp(mean(log(V2))), Harmonic.MashMean=harmonic.mean(V2), MashMedian=median(V2))
+      summarise(Arith.Mean=mean(V2), Geom.Mean=exp(mean(log(V2))), Harmonic.Mean=harmonic.mean(V2), Median=median(V2))
     })
   # Downloadable csv of selected dataset ----
  
@@ -116,4 +109,4 @@ server <- function(input, output) {
 
 # Run the application 
 shinyApp(ui = ui, server = server)
-}
+
