@@ -1,5 +1,5 @@
-# gamR (https://prakkirama.shinyapps.io/gamr/)
-Draw Gene Arrow Maps with gggenes package using R-Shiny App
+# gamR 
+Draw Gene Arrow Maps with gggenes package using R-Shiny App - [**gamR**] (https://prakkirama.shinyapps.io/gamr/)
 
 ## Content
   * [Synopsis](#synopsis)
