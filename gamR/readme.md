@@ -19,7 +19,7 @@ Draw Gene Arrow Maps with gggenes package using R-Shiny App - **[gamR](https://p
 
 ### **Example Usage**
  
-A small video
+![](gamR.gif)
 
 ##### **Version**
 
