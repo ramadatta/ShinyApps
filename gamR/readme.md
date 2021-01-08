@@ -4,6 +4,7 @@ Draw Gene Arrow Maps with gggenes package using R-Shiny App - **[gamR](https://p
 ## Content
   * [Synopsis](#synopsis)
   * [Input Requirements](#input-requirements)
+  * [Details](#details)
   * [Example Usage](#example-usage)
   * [Version](#version)
   * [Community Guidelines ](#community-guidelines)
@@ -16,6 +17,23 @@ Draw Gene Arrow Maps with gggenes package using R-Shiny App - **[gamR](https://p
   
 ##### **Input Requirements**
 * A csv file in the gggenes input format (also available [here](https://github.com/ramadatta/ShinyApps/blob/master/gamR/example_genes.csv))
+
+### **Details**
+
+#### **Basic** 
+Clicking this option would generate a basic plot with only gene directionality 
+
+#### **Align using a specific gene + add label** 
+Clicking this option would generate a plot with labels inside the arrows and the genes can be aligned based on a specific gene
+
+#### **Align using a specific gene + add label above** 
+Clicking this option would generate a plot with labels outside the arrows and the genes can be aligned based on a specific gene
+
+#### **Align using a specific gene + add label above + order by gene pres/abs** 
+Clicking this option would generate a plot with genomes sorted by gene presence/absence. 
+
+#### **Align using a specific gene + add label above + order by gene pres/abs + Distinctive Gene Set Structures** 
+Clicking this option would generate a plot of genomes with unique set of genes (directionality ignored). For example: Regardless of directionality, if genome A and B have same gene G1, G2, G3, G4 - only one of the genomes between the two will be choosen
 
 ### **Example Usage**
  
