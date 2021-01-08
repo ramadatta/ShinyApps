@@ -1,5 +1,5 @@
-# gamR 
-Draw Gene Arrow Maps with gggenes package using R-Shiny App - **[gamR](https://prakkirama.shinyapps.io/gamr/)**
+# **[gamR](https://prakkirama.shinyapps.io/gamr/)**
+Draw Gene Arrow Maps with gggenes package using R-Shiny App 
 
 ## Content
   * [Synopsis](#synopsis)
@@ -56,7 +56,7 @@ You are also welcome to contribute to the source code directly by forking the pr
 If you are not familiar with pull requests, check out [this post](https://guides.github.com/activities/forking/).
 Please use clear and organized descriptions when creating issues and pull requests.
 
-Please note that ``gamR`` is released with a [Contributor Code of Conduct](https://github.com/ramadatta/gamR/blob/master/Code_of_Conduct.md). By contributing to this project, you agree to abide by its terms.
+Please note that ``gamR`` is released with a [Contributor Code of Conduct](https://github.com/ramadatta/ShinyApps/blob/master/gamR/Code_of_Conduct.md). By contributing to this project, you agree to abide by its terms.
 
 ## Bug Report and Support Request
 
