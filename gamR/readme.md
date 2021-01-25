@@ -16,7 +16,7 @@ Draw Gene Arrow Maps with gggenes package using R-Shiny App
 [gamR](https://prakkirama.shinyapps.io/gamr/) is a shiny application for drawing gene arrow maps using gggenes package. 
   
 ##### **Input Requirements**
-* A csv file in the gggenes input format (also available [here](https://github.com/ramadatta/ShinyApps/blob/master/gamR/example_genes.csv))
+* A csv file in the gggenes input format (can download sample input dataset [here](https://github.com/ramadatta/ShinyApps/blob/master/gamR/example_genes.csv))
 
 ### **Details**
 
