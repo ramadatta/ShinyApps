@@ -1,5 +1,5 @@
 # ggResist
-Generate a resistome plots from CGE resfinder output
+A R Shiny app to generate a resistome plots from CGE resfinder output
 
 
 
