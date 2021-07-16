@@ -1,6 +1,12 @@
 # ggResist
 Generate a resistome plots from CGE resfinder output
 
+
+
+# In progress ....
+
+# To modify all the below content
+
 ## Content
   * [Synopsis](#synopsis)
   * [Input Requirements](#input-requirements)
