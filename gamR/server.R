@@ -1,6 +1,8 @@
 # Define server logic required to draw a histogram
 server <- function(input, output) {
 
+   options(shiny.maxRequestSize = 50*1024^2) #would increase the limit to 30MB.
+  
   source('basic.R',local = TRUE)  
   source('alignbygene.R',local = TRUE)  
   source('labelabv.R',local = TRUE) 
