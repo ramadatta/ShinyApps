@@ -7,4 +7,4 @@ Side panel, select genes to display
 
 main panel 
 
-SNP tree - SNPs with | at the respective core genome position - bottom most below x-axis selected genes based on the side panel
+SNP tree - SNPs with | at the respective core genome position - bottom most below x-axis selected genes based on the side panel - if recombination gff is given should plot recombination as well in the plot
