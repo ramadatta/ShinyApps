@@ -1,0 +1,5 @@
+plasmid annotation map
+
+Takes prokka output and plot a circular annotation map
+
+https://bradyajohnston.github.io/plasmapR/ - just uses ggplot to draw the map. 
