@@ -1,0 +1,361 @@
+Sample,CP_gene,Sample_type,Isolate_source,Isolate_Culture_Year,Hospital,Location
+E129,blaNDM-1,Clinical,Sputum,2015,A,Local
+E138,blaNDM-1,Clinical,Endotracheal Tube Aspirate,2015,A,Local
+E139,blaNDM-1,Clinical,Urine,2015,A,Local
+E140,blaNDM-1,Clinical,Urine,2015,A,Local
+E141,blaNDM-1,Clinical,Urine,2015,A,Local
+E142,blaNDM-1,Clinical,Wound,2015,A,Local
+E143,blaNDM-1,Clinical,Urine,2015,A,Local
+E144,blaNDM-1,Clinical,Urine,2015,A,Local
+E145,blaNDM-1,Clinical,Blood,2015,A,Local
+E146,blaNDM-1,Clinical,Urine,2015,A,Local
+E147,blaNDM-1,Clinical,Sputum,2015,A,Local
+E150,blaNDM-1,Clinical,Urine,2016,A,Local
+E151,blaNDM-1,Clinical,Urt,2016,A,Local
+E152,blaNDM-1,Clinical,Urine,2016,A,Local
+E153,blaNDM-1,Clinical,Urine,2016,A,Local
+E154,blaNDM-1,Clinical,Wound,2017,A,Local
+E155,blaNDM-1,Clinical,Sputum,2017,A,Local
+E156,blaNDM-1,Clinical,Urine,2017,A,Local
+E157,blaNDM-1,Clinical,Bone,2017,A,Local
+E158,blaNDM-1,Clinical,Leg,2017,A,Local
+E159,blaNDM-1,Clinical,Urine,2017,A,Local
+E160,blaNDM-1,Clinical,Sputum,2015,A,Local
+E163,blaNDM-1,Clinical,Urine,2017,A,Local
+E164,blaNDM-1,Clinical,Tissue,2017,A,Local
+E165,blaNDM-1,Clinical,Urine,2017,A,Local
+E166,blaNDM-1,Clinical,Tissue,2017,A,Local
+E167,blaNDM-1,Clinical,Urine,2017,A,Local
+E168,blaNDM-1,Clinical,Wound,2018,A,Local
+E169,blaNDM-1,Clinical,Urine,2018,A,Local
+E170,blaNDM-1,Clinical,Wound,2018,A,Local
+E171,blaNDM-1,Clinical,Tissue,2018,A,Local
+E410,blaNDM-1,Clinical,Blood,2013,B,Local
+E411,blaNDM-1,Clinical,Wound,2014,B,Local
+E412,blaNDM-1,Clinical,Blood,2014,B,Local
+E413,blaNDM-1,Clinical,Urinary,2015,B,Local
+E414,blaNDM-1,Clinical,Genital,2015,B,Local
+E415,blaNDM-1,Clinical,Urinary,2015,B,Local
+E416,blaNDM-1,Clinical,Urinary,2015,B,Local
+E417,blaNDM-1,Clinical,Wound,2015,B,Local
+E418,blaNDM-1,Clinical,Bone,2015,B,Local
+E419,blaNDM-1,Clinical,Wound,2015,B,Local
+E420,blaNDM-1,Clinical,Respiratory,2015,B,Local
+E421,blaNDM-1,Clinical,Blood,2015,B,Local
+E422,blaNDM-1,Clinical,Blood,2015,B,Local
+E423,blaNDM-1,Clinical,Urinary,2015,B,Local
+E424,blaNDM-1,Clinical,Ear,2015,B,Local
+E425,blaNDM-1,Clinical,Wound,2015,B,Local
+E426,blaNDM-1,Clinical,Wound,2015,B,Local
+E427,blaNDM-1,Clinical,Urinary,2015,B,Local
+E428,blaNDM-1,Clinical,Urinary,2015,B,Local
+E429,blaNDM-1,Clinical,Blood,2016,B,Local
+E430,blaNDM-1,Clinical,Blood,2013,B,Local
+E431,blaNDM-1,Clinical,Blood,2014,B,Local
+E432,blaNDM-1,Clinical,Blood,2017,B,Local
+E433,blaNDM-1,Clinical,Blood,2017,B,Local
+E434,blaNDM-1,Clinical,Blood,2017,B,Local
+E435,blaNDM-1,Clinical,Blood,2017,B,Local
+E436,blaNDM-1,Clinical,Respiratory,2017,B,Local
+E437,blaNDM-1,Clinical,Blood,2018,B,Local
+E438,blaNDM-1,Clinical,Respiratory,2018,B,Local
+E439,blaNDM-1,Clinical,Wound,2019,B,Local
+E440,blaNDM-1,Clinical,Blood,2019,B,Local
+E441,blaNDM-1,Clinical,Urinary,2020,B,Local
+E442,blaNDM-1,Clinical,Blood,2020,B,Local
+E443,blaNDM-1,Clinical,Blood,2020,B,Local
+E444,blaNDM-1,Clinical,Blood,2020,B,Local
+E445,blaNDM-1,Clinical,Blood,2020,B,Local
+E446,blaNDM-1,Clinical,Bone,2020,B,Local
+E447,blaNDM-1,Clinical,Wound,2020,B,Local
+E448,blaNDM-1,Clinical,Wound,2020,B,Local
+E449,blaNDM-1,Clinical,Urinary,2020,B,Local
+E180,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E181,blaNDM-1,Clinical,Tracheal Aspirate,2019,C,Local
+E182,blaNDM-1,Clinical,Urine,2019,C,Local
+E183,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E184,blaNDM-1,Clinical,Wound Swab,2019,C,Local
+E185,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E186,blaNDM-1,Clinical,Wound Swab,2019,C,Local
+E187,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E188,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E189,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E190,blaNDM-1,Clinical,Urine,2019,C,Local
+E191,blaNDM-1,Clinical,Wound Swab,2019,C,Local
+E192,blaNDM-1,Clinical,Tracheal Aspirate,2019,C,Local
+E193,blaNDM-1,Clinical,Wound Swab,2019,C,Local
+ES1,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E194,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E195,blaNDM-1,Clinical,Tissue,2019,C,Local
+E196,blaNDM-1,Clinical,Wound Swab,2019,C,Local
+ES2,blaGES-5,Clinical,Rectal Swab,2019,C,Local
+E197,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E198,blaNDM-1,Clinical,Wound Swab,2019,C,Local
+E199,blaNDM-1,Clinical,Urine,2019,C,Local
+E200,blaNDM-1,Clinical,Urine,2019,C,Local
+E201,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E202,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E203,NA,Clinical,Rectal Swab,2019,C,Local
+E204,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E205,blaNDM-1,Clinical,Stool,2019,C,Local
+E206,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E207,blaNDM-1,Clinical,Tissue,2019,C,Local
+E208,blaNDM-1,Clinical,Tissue,2019,C,Local
+E209,blaNDM-1,Clinical,Urine,2019,C,Local
+E210,blaNDM-1,Clinical,Wound Swab,2019,C,Local
+E211,blaNDM-1,Clinical,Pus,2019,C,Local
+E212,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E213,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E214,blaNDM-1,Clinical,Urine,2019,C,Local
+E215,blaNDM-1,Clinical,Tissue,2019,C,Local
+E216,blaNDM-1,Clinical,Urine,2019,C,Local
+E217,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E218,blaNDM-1,Clinical,Urine,2019,C,Local
+E219,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E220,blaNDM-1,Clinical,Sputum,2019,C,Local
+E221,blaNDM-1,Clinical,Urine,2019,C,Local
+E222,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E223,blaNDM-1,Clinical,Tracheal Aspirate,2019,C,Local
+E224,blaNDM-1,Clinical,Urine,2019,C,Local
+E225,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E226,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E227,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E228,blaNDM-1,Clinical,Urine,2019,C,Local
+E229,blaNDM-1,Clinical,Wound Swab,2019,C,Local
+E230,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E231,blaNDM-1,Clinical,Urine,2019,C,Local
+E232,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E233,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E234,blaNDM-1,Clinical,Endotracheal Tube Aspirate,2019,C,Local
+E235,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E236,blaNDM-1,Clinical,Wound Swab,2019,C,Local
+E237,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E238,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E239,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E240,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E241,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+ES3,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E242,blaNDM-1,Clinical,Urine,2019,C,Local
+E243,blaNDM-1,Clinical,Urine,2019,C,Local
+E244,blaNDM-1,Clinical,Urine,2019,C,Local
+E245,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E246,blaNDM-1,Clinical,Urine,2019,C,Local
+E247,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E248,blaNDM-1,Clinical,Stool,2019,C,Local
+E249,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E250,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E251,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E252,blaNDM-1,Clinical,Blood,2019,C,Local
+E253,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E254,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E255,blaNDM-1,Clinical,Sputum ,2019,C,Local
+E256,blaNDM-1,Clinical,Sputum ,2019,C,Local
+E257,blaNDM-1,Clinical,Urine,2019,C,Local
+E258,blaNDM-1,Clinical,Urine Cystoscopy,2019,C,Local
+E259,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E260,blaNDM-1,Clinical,Rectal Swab,2019,C,Local
+E261,blaNDM-1,Clinical,Ear Swab ,2019,C,Local
+E262,blaNDM-1,Clinical,Urine ,2019,C,Local
+E263,blaNDM-1,Clinical,Urine ,2019,C,Local
+E264,blaNDM-1,Clinical,Vir Spine Biopsy Tissue T12/L1,2019,C,Local
+E265,blaNDM-1,Clinical,Wound Swab ,2019,C,Local
+E266,blaNDM-1,Clinical,Urine,2019,C,Local
+E267,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E268,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E269,blaNDM-1,Clinical,Stool,2020,C,Local
+E270,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E271,blaNDM-1,Clinical,Endotracheal Tube Aspirate,2020,C,Local
+E272,blaNDM-1,Clinical,Urine From Left Percutaneous Nephrostomy,2020,C,Local
+E273,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E274,blaNDM-1,Clinical,Urine,2020,C,Local
+E275,blaNDM-1,Clinical,Urine,2020,C,Local
+E276,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E277,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E278,blaNDM-1,Clinical,"Urine, Percutaneous Nephrostomy",2020,C,Local
+E279,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E280,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E281,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E282,blaNDM-1,Clinical,Urine,2020,C,Local
+E283,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E284,blaNDM-1,Clinical,Urine,2020,C,Local
+E285,blaNDM-1,Clinical,Right Eye Swab,2020,C,Local
+E286,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E287,blaNDM-1,Clinical,Sputum,2020,C,Local
+E288,blaNDM-1,Clinical,Endotracheal Tube Aspirate,2020,C,Local
+E289,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E290,blaNDM-1,Clinical,Urine,2020,C,Local
+E291,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E292,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E293,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E294,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E295,blaNDM-1,Clinical,Tracheal Aspirate,2020,C,Local
+E296,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E297,blaNDM-1,Clinical,Urine,2020,C,Local
+E298,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E299,blaNDM-1,Clinical,Blood,2020,C,Local
+E300,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E301,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E302,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E303,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E304,blaNDM-1,Clinical,Tissue From Left Foot Wound,2020,C,Local
+E305,blaNDM-1,Clinical,Left Ankle Bone,2020,C,Local
+E306,blaNDM-1,Clinical,Left Foot Bone Wound,2020,C,Local
+E307,blaNDM-1,Clinical,Urine,2020,C,Local
+E308,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E309,blaNDM-1,Clinical,Urine Catherized,2020,C,Local
+E310,blaNDM-1,Clinical,Urine,2020,C,Local
+E311,blaNDM-1,Clinical,Urine,2020,C,Local
+E312,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E313,blaNDM-1,Clinical,Urine,2020,C,Local
+E314,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E315,blaNDM-1,Clinical,Tissue From Left Foot,2020,C,Local
+E316,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E317,blaNDM-1,Clinical,Sputum,2020,C,Local
+E318,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E319,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E320,blaNDM-1,Clinical,Right Foot Tissue,2020,C,Local
+E321,blaNDM-1,Clinical,Urine,2020,C,Local
+E322,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E323,blaNDM-1,Clinical,Urine,2020,C,Local
+E324,blaNDM-1,Clinical,Urine,2020,C,Local
+E325,blaNDM-1,Clinical,Rectal Swab,NA,C,Local
+E326,blaNDM-1,Clinical,Blood,2020,C,Local
+E327,blaNDM-1,Clinical,Rectal Swab,NA,C,Local
+E328,blaNDM-1,Clinical,Urine,2020,C,Local
+E329,blaNDM-1,Clinical,Right Knee,2020,C,Local
+E330,blaNDM-1,Clinical,Blood,2020,C,Local
+E331,blaNDM-1,Clinical,Blood,2020,C,Local
+E332,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+ES4,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E333,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E334,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E335,blaNDM-1,Clinical,Urine,2020,C,Local
+E336,blaNDM-1,Clinical,Urine,2020,C,Local
+E337,blaNDM-1,Clinical,Fluid Prostate Abscess,2020,C,Local
+E338,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E339,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E340,blaNDM-1,Clinical,Urine ,2020,C,Local
+E341,blaNDM-1,Clinical,Urine,2020,C,Local
+E342,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E343,blaNDM-1,Clinical,Urine ,2020,C,Local
+E344,blaNDM-1,Clinical,Wound Swab,2020,C,Local
+E345,blaNDM-1,Clinical,Rectal Swab,NA,C,Local
+E346,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E347,blaNDM-1,Clinical,Wound Swab From Right Leg ,2020,C,Local
+E348,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E349,blaNDM-1,Clinical,Rectal Swab,2020,C,Local
+E350,blaNDM-1,Clinical,Wound Swab,2020,C,Local
+E351,blaNDM-1,Clinical,Tissue,2020,C,Local
+E352,blaNDM-1,Clinical,Stool,2020,C,Local
+E353,blaNDM-1,Clinical,Urine,2019,C,Local
+E354,blaNDM-1,Clinical,Urine,2019,C,Local
+E355,blaNDM-1,Clinical,Urine ,2019,C,Local
+E356,blaNDM-1,Clinical,Urine,NA,C,Local
+E357,blaNDM-1,Clinical,Urine,2020,C,Local
+E358,blaNDM-1,Clinical,Blood,NA,C,Local
+E359,blaNDM-1,Environmental,Sink In Bathroom (P-Trap Water),2019,C,Local
+E360,blaNDM-1,Environmental,Sink In Bathroom (Steel Trap Up And Below),2019,C,Local
+E361,blaNDM-1,Environmental,Sink In Bathroom (Steel Trap Up And Below),2019,C,Local
+E362,blaNDM-1,Environmental,Shower Drain Trap,2019,C,Local
+E363,blaNDM-1,Environmental,Shower Drain Trap,2019,C,Local
+E364,blaNDM-1,Environmental,Shower Drain Trap,2019,C,Local
+E365,blaNDM-1,Environmental,Shower Drain Trap,2019,C,Local
+E366,blaNDM-1,Environmental,Sink In Bathroom (Steel Trap Up And Below),2019,C,Local
+E367,blaNDM-1,Environmental,Shower Drain Trap,2019,C,Local
+E368,blaNDM-1,Environmental,Shower Drain Trap,2019,C,Local
+E369,blaNDM-1,Environmental,Sink In Bathroom (P-Trap Water),2019,C,Local
+E370,blaNDM-1,Environmental,Shower Drain Trap,2019,C,Local
+E371,blaNDM-1,Environmental,Shower Drain Trap,2019,C,Local
+E372,blaNDM-1,Environmental,Sink In Bathroom (P-Trap Water),2019,C,Local
+E373,blaNDM-1,Environmental,Sink In Bathroom (P-Trap Water),2019,C,Local
+E374,blaNDM-1,Environmental,Sink In Bathroom (Steel Trap Up And Below),2019,C,Local
+E115,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E116,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E101,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E102,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E103,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E104,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E104,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E105,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E106,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E107,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E108,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E109,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E110,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E111,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E112,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E113,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E114,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E124,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E117,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E118,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E119,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E120,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E120,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E121,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E122,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E123,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E134,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E135,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E126,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E127,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E128,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E130,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E131,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E132,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E132,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E133,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E133,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E136,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E137,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E148,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E149,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E161,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E162,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E172,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E173,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E174,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E175,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E176,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E176,blaNDM-1,NA,Patient Specimens and water-related environment,NA,NA,Global
+E177,blaNDM-1,NA,Not known,NA,NA,Global
+E178,blaNDM-1,NA,Not known,NA,NA,Global
+E179,blaNDM-1,NA,Not known,NA,NA,Global
+E375,blaNDM-1,NA,Not known,NA,NA,Global
+E376,blaNDM-1,NA,Not known,NA,NA,Global
+E377,blaNDM-1,NA,Urine,2017,NA,Global
+E378,blaNDM-1,NA,Urine,2017,NA,Global
+E379,blaNDM-1,NA,Urine,2017,NA,Global
+E380,blaNDM-1,NA,Urine,2017,NA,Global
+E381,blaNDM-1,NA,Urine,2018,NA,Global
+E382,blaNDM-1,NA,Urine,2018,NA,Global
+E383,blaNDM-1,NA,Urine,2018,NA,Global
+E384,blaNDM-1,NA,Urine,2018,NA,Global
+E385,blaNDM-1,NA,Urine,2018,NA,Global
+E386,blaNDM-1,NA,Urine,2017,NA,Global
+E387,blaNDM-1,NA,Urine,2017,NA,Global
+E388,blaNDM-1,NA,Urine,2017,NA,Global
+E389,blaNDM-1,NA,Urine,2017,NA,Global
+E390,blaNDM-1,NA,Urine,2017,NA,Global
+E391,blaNDM-1,NA,Urine,2017,NA,Global
+E392,blaNDM-1,NA,Urine,2017,NA,Global
+E393,blaNDM-1,NA,Urine,2017,NA,Global
+E394,blaNDM-1,NA,Urine,2017,NA,Global
+E395,blaNDM-1,NA,Urine,2017,NA,Global
+E396,blaNDM-1,NA,Urine,2017,NA,Global
+E397,blaNDM-1,NA,Urine,2017,NA,Global
+E398,blaNDM-1,NA,Urine,2017,NA,Global
+E399,blaNDM-1,NA,Urine,2017,NA,Global
+E400,blaNDM-1,NA,Urine,2017,NA,Global
+E401,blaNDM-1,NA,Urine,2017,NA,Global
+E402,blaNDM-1,NA,Urine,2017,NA,Global
+E403,blaNDM-1,NA,Urine,2017,NA,Global
+E404,blaNDM-1,NA,Urine,2017,NA,Global
+E405,blaNDM-1,NA,Not known,NA,NA,Global
+E406,blaNDM-1,NA,Urine,2017,NA,Global
+E407,blaNDM-1,NA,Not known,NA,NA,Global
+E408,blaNDM-1,NA,Not known,NA,NA,Global
+E409,blaNDM-1,NA,Not known,NA,NA,Global
+E450,blaNDM-1,NA,bloodstream,2014,NA,Global
+ES5,blaNDM-1,NA,Pleural Cavity,2021,NA,Global
+ES6,blaNDM-1,NA,Swab from tracheostomic tube,2021,NA,Global
