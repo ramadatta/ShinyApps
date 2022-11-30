@@ -1,6 +1,6 @@
 # **[plotPADr](https://prakkirama.shinyapps.io/plotPADr/)**
 
-**P**lot **P**resence/**A**bsence **D**ata using **R** (plotPADr)
+**Plot** **P**resence/**A**bsence **D**ata using **R** (plotPADr)
 
 ## Content
   * [Synopsis](#synopsis)
