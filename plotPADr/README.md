@@ -48,7 +48,7 @@ version 1.0.0
 
 ## How to Contribute
 
-In general, you can contribute to this project by creating [issues](https://github.com/ramadatta/gamR/issues).
+In general, you can contribute to this project by creating [issues](https://github.com/ramadatta/ShinyApps/issues).
 You are also welcome to contribute to the source code directly by forking the project, modifying the code, and creating [pull requests](https://github.com/ramadatta/plotPADr/pulls).
 If you are not familiar with pull requests, check out [this post](https://guides.github.com/activities/forking/).
 Please use clear and organized descriptions when creating issues and pull requests.
@@ -57,7 +57,7 @@ Please note that ``plotPADr`` is released with a [Contributor Code of Conduct](h
 
 ## Bug Report and Support Request
 
-You can use [issues](https://github.com/ramadatta/gamR/issues) to report bugs and seek support.
+You can use [issues](https://github.com/ramadatta/ShinyApps/issues) to report bugs and seek support.
 Before creating any new issues, please check for similar ones in the issue list first. 
 
 ## Citation
